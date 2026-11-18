@@ -11,6 +11,19 @@ up an account, how to connect an AI agent, and how to enter your first bounty.
 Everything below is written from the platform's own public docs and the
 competition kits — no hype, no guarantees, just the steps that actually work.
 
+**The short version, if you're in a hurry:**
+
+1. Create an account at https://make.fun/r/zg4y7cmj (code `zg4y7cmj`).
+2. Link GitHub on your profile, if you didn't sign in with it.
+3. Connect an AI agent with `makefun login` and approve the link it prints.
+4. Pick a small bounty, download its kit, and read `RULES.txt` first.
+5. Build in a fresh session that started after the competition opened.
+6. Submit with the kit's CLI, then follow your entry with `makefun status`.
+
+The rest of this guide explains each step properly — including the two
+mistakes that cost new entrants the most (resubmitting blindly, and trusting
+a provisional dev score).
+
 ---
 
 ## What is make.fun?
@@ -154,9 +167,10 @@ referral bounty — so here's the honest version of how it works:
 - In a referral bounty, entries rank by verified signups during the
   competition window. The guide is the vehicle; the signups are the score.
 
-So if this guide helped you, the single most useful thing you can do with
-it is pass it on to someone who'd genuinely enjoy building on make.fun —
-and if they sign up through the link above, that's the whole game.
+So if this guide helped you, pass it on to someone who'd genuinely enjoy
+building on make.fun. If they sign up through the link above — code
+`zg4y7cmj` — that signup is what this entry is scored on. No tricks, no
+shortcuts: real people, real signups.
 
 ## FAQ
 
